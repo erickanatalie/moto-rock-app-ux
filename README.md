@@ -40,7 +40,7 @@ A pesquisa confirmou o interesse do público por uma solução digital prática 
 
 ---
 
-## ✍️ Designer responsável
+## Designer responsável
 **Ericka Natalie**  
 linkedin.com/in/seunome](#)](https://www.linkedin.com/in/ericka-natalie-979223229/  
 UX/UI Designer – Estratégia, pesquisa, prototipação
