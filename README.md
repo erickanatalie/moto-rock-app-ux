@@ -36,7 +36,7 @@ A pesquisa foi realizada via **Instagram Stories**, usando:
 
 A pesquisa confirmou o interesse do público por uma solução digital prática e com a identidade do MotoRock. Este projeto serviu como base para **criar um MVP** e definir prioridades para o futuro app.
 
-📄 **[Clique aqui para ver o estudo de caso completo em PDF](case-motorock-app.pdf)**
+📄 [Acesse o estudo de caso completo em PDF](./_Case%20MotoRock%20Pesquisa%20App.pdf)
 
 ---
 
