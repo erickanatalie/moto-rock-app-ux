@@ -1,5 +1,5 @@
 **Case de UX/UI — Pesquisa de validação e protótipo de app para o MotoRock & Cia.**
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto tem como objetivo validar, através de pesquisa com usuários, a viabilidade de um aplicativo oficial do MotoRock & Cia para:
 
@@ -9,13 +9,13 @@ Este projeto tem como objetivo validar, através de pesquisa com usuários, a vi
 
 ---
 
-## 🧠 Público-Alvo
+## Público-Alvo
 
 Amantes do rock, cultura biker e eventos ao vivo, principalmente entre **25 e 45 anos**, ativos em redes sociais, e que valorizam praticidade e experiência.
 
 ---
 
-## 🧪 Metodologia
+## Metodologia
 
 A pesquisa foi realizada via **Instagram Stories**, usando:
 
@@ -24,7 +24,7 @@ A pesquisa foi realizada via **Instagram Stories**, usando:
 
 ---
 
-## 📊 Resultados
+## Resultados
 
 - **427 respostas totais**
 - **88%** disseram que usariam um app
@@ -32,7 +32,7 @@ A pesquisa foi realizada via **Instagram Stories**, usando:
 
 ---
 
-## 🔍 Conclusão
+## Conclusão
 
 A pesquisa confirmou o interesse do público por uma solução digital prática e com a identidade do MotoRock. Este projeto serviu como base para **criar um MVP** e definir prioridades para o futuro app.
 
